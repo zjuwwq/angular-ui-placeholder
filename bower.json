@@ -1,0 +1,25 @@
+{
+  "name": "angular-ui-placeholder",
+  "version": "0.0.1",
+  "description": "a placeholder polyfill - a angular directive which support placeholder attribute in ie8, ie9",
+  "author": "https://zjuwwq.github.com/angular-ui/placholder/graphs/contributors",
+  "license": "MIT",
+  "homepage": "https://github.com/zjuwwq/angular-ui-placeholder",
+  "main": "./src/placeholder.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test*",
+    "demo*",
+    "gruntFile.js",
+    "package.json"
+  ],
+  "dependencies": {
+    "angular": "~1.2.x"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.2.x"
+  }
+}

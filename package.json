@@ -1,0 +1,18 @@
+{
+  "name": "angular-ui-placeholder",
+  "private": true,
+  "version": "0.0.1",
+  "description": "a placeholder polyfill - a angular directive which support placeholder attribute in ie8, ie9",
+  "repository": "https://github.com/zjuwwq/angular-ui-placeholder.git",
+  "license": "MIT",
+  "devDependencies": {
+    "karma" : "~0.10",
+    "karma-safari-launcher": "~0.1",
+    "bower": "^1.3.1"
+  },
+  "scripts": {
+    "postinstall": "bower install",
+    "test": "karma start test/karma.conf.js",
+    "test-single-run": "karma start test/karma.conf.js  --single-run"
+  }
+}
