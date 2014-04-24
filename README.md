@@ -29,4 +29,4 @@ To your `bower.json` file. Then run
 
 This will copy the placeholder files into your `bower_components` folder, along with its dependencies. 
 
-next, read demo/index.html for detail
+Next, read demo/index.html for detail
