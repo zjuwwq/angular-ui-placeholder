@@ -32,6 +32,16 @@ module.exports = function(config) {
 		// - PhantomJS
 		// - IE (only Windows)
 		browsers: ['IE'],
+		customLaunchers: {
+			IE9: {
+				base: 'IE',
+				'x-ua-compatible': 'IE=EmulateIE9'
+			},
+			IE8: {
+				base: 'IE',
+				'x-ua-compatible': 'IE=EmulateIE8'
+			}
+		},
 		// If browser does not capture in given timeout [ms], kill it
 		captureTimeout: 60000,
 		// Continuous Integration mode
