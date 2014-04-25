@@ -1,4 +1,4 @@
-# placeholder directive
+# Placeholder Directive
 
 a placeholder polyfill,  the directive which support placeholder attribute in ie8, ie9
 
