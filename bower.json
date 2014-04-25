@@ -5,7 +5,7 @@
   "author": "https://zjuwwq.github.com/angular-ui/placholder/graphs/contributors",
   "license": "MIT",
   "homepage": "https://github.com/zjuwwq/angular-ui-placeholder",
-  "main": "./src/placeholder.js",
+  "main": "./src/angular-ui-placeholder.js",
   "ignore": [
     "**/.*",
     "node_modules",
