@@ -1,4 +1,4 @@
-angular.module('zjuwwq.placeholder', [])
+angular.module('zjuwwq.ui.placeholder', [])
 	.constant('placeholderConfig', {
 		className: 'u-placeholder'
 	})

@@ -1,7 +1,7 @@
 describe('placeholder directive', function(){
   var $compile, scope, element, className;
 
-  beforeEach(module('zjuwwq.placeholder'));
+  beforeEach(module('zjuwwq.ui.placeholder'));
 
   beforeEach(inject(function(_$compile_, _$rootScope_, _placeholderConfig_){
     $compile = _$compile_;
