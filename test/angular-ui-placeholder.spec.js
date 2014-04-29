@@ -10,7 +10,7 @@ describe('placeholder directive', function(){
   }));
 
   function compile(){
-    element = $compile('<input ng-model="name" placeholder="用户名">')(scope).appendTo($('body'));
+    element = $compile('<input ng-model="name" placeholder="用户名">')(scope).append($('body'));
   }
 
   it('add placeholder on initialization', function(){

@@ -20,4 +20,4 @@ The karma task will try to open IE as a browser in which to run the tests. Make 
 
 # Usage 
 
-read demo/index.html for detail
+read https://github.com/zjuwwq/angular-ui-cardNo/tree/master/demo for detail
